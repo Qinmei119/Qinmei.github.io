@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../html5up-miniport"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-stellar"
+	}
+}
